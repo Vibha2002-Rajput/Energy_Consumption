@@ -49,7 +49,7 @@ In this section we are going to elaborate the dataset which is used in this proj
 ## Conclusion:
 In this project, the monthly electricity load consumption is used to forecast future load electricity demands. As such, traditional techniques may not be able to forecast future values accurately. The monthly electricity load values between 01/01/2018 to 30/06/2022, are reported in World energy dataset. In chapter 1, we summarized the importance of demand forecasting and related literature. To explore the dataset’s characteristics, we started with exploratory data analysis, providing descriptive information. In the data cleaning process, we will replace null values with mean values, extracted redundant attributes, and aggregated monthly load values monthly level to see the trend and seasonality functions more clearly.
 
-#Research Paper of Energy Consumption Forecasting Using Machine Learning
+# Research Paper of Energy Consumption Forecasting Using Machine Learning
 
 Energy Consumption Forecasting using Machine Learning International Journal of Innovative Research in Technology 
 
