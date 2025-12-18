@@ -55,5 +55,5 @@ Energy Consumption Forecasting using Machine Learning International Journal of I
 
 https://ijirt.org › master › IJIRT158582_PAPER
 
-[Research Paper](https://ijirt.org/master/publishedpaper/IJIRT158582_PAPER.pdf)
+[Research Paper](https://ijirt.org/publishedpaper/IJIRT158582_PAPER.pdf)
 
